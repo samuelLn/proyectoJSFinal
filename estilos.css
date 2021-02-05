@@ -1,0 +1,20 @@
+body {
+}
+p {
+}
+h1 {
+}
+
+
+
+#coupon_code::placeholder{
+    
+   color: black; 
+    
+}
+
+
+input[type=text], #coupon_code {
+    
+    color: black; 
+}
